@@ -45,7 +45,8 @@ code in ```SV_freq.R```<br />
 output: ```wismut_freq0.5.txt``` and ```trans_freq0.5.txt```<br />
 
 Have representative Wismut SVs based on Wismut SVs / Have representative Trans SVs based on Trans SVs:<br />
-
+```SV_within_wismut_freq.R```<br />
+output: ```uni.sv.wismut.txt``` and ```uni.sv.trans.txt```<br />
 
 ### SV bar plot
 code in ```manta_visulization.R```
